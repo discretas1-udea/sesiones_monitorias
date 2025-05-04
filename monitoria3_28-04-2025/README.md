@@ -10,6 +10,7 @@
 |2|Prolog 1 - Introducción [[link]](https://www.youtube.com/watch?v=STmwiv5c_5I&list=PL78NClSujpJh7XARz_Dhp9IP9K-htQN1g&index=1&t=7s)|video|
 |3|Ejemplo 1: [ejemplo1.pl](ejemplo1.pl)|Archivo prolog (pl)|
 |4|Ejemplo 2: [ejemplo2.pl](ejemplo2.pl)|Archivo prolog (pl)|
+|5|Prolog Cheat Sheet [[link]](CheatSheet.pdf)|pdf|
 
 ## Videos Complementarios
 
